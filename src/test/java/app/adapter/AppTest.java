@@ -1,4 +1,4 @@
-package app.controle;
+package app.adapter;
 
 import static org.junit.Assert.assertEquals;
 

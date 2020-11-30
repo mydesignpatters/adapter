@@ -1,4 +1,4 @@
-package app.controle.sms;
+package app.adapter.sms;
 
 public class SMS {
     private String destino;

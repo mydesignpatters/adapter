@@ -1,7 +1,7 @@
-package app.controle.negocios;
+package app.adapter.negocios;
 
-import app.controle.sms.ISMSSender;
-import app.controle.sms.SMS;
+import app.adapter.sms.ISMSSender;
+import app.adapter.sms.SMS;
 
 public class SMSSender implements ISMSSender {
 

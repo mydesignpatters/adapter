@@ -1,10 +1,10 @@
-package app.controle.principal;
+package app.adapter.principal;
 
-import app.controle.negocios.EnviadorSMS;
-import app.controle.negocios.EnviadorSMSToSMSSenderAdatper;
-import app.controle.negocios.SMSSender;
-import app.controle.sms.SMS;
-import app.controle.sms.SMSException;
+import app.adapter.negocios.EnviadorSMS;
+import app.adapter.negocios.EnviadorSMSToSMSSenderAdatper;
+import app.adapter.negocios.SMSSender;
+import app.adapter.sms.SMS;
+import app.adapter.sms.SMSException;
 
 public class App {
     public static void main(String[] args) {

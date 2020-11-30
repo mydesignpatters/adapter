@@ -1,7 +1,7 @@
-package app.controle.negocios;
+package app.adapter.negocios;
 
-import app.controle.sms.IEnviadorSMS;
-import app.controle.sms.SMSException;
+import app.adapter.sms.IEnviadorSMS;
+import app.adapter.sms.SMSException;
 
 public class EnviadorSMS implements IEnviadorSMS {
     @Override
